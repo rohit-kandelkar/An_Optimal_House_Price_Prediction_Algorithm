@@ -20,7 +20,7 @@ The study involves multiple regression algorithms including **XGBoost**, **Rando
 
 | Dataset                | Description                                              | Source                                                                 |
 |------------------------|----------------------------------------------------------|------------------------------------------------------------------------|
-| **USA Housing Dataset** | Housing features and prices from the USA               | [Kaggle – USA Housing](https://www.kaggle.com/datasets/serigne/usa-housing-dataset) |
+| **USA Housing Dataset** | Housing features and prices from the USA               | [Kaggle – Ames Iowa Housing Data](https://www.kaggle.com/datasets/marcopale/housing) |
 | **Indian Housing Dataset** | Cleaned housing price data from India (custom prepared) | Sourced from open Indian housing data & real estate portals           |
 
 ---
