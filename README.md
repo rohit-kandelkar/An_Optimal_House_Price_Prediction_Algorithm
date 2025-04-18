@@ -33,7 +33,9 @@ To run the project locally, ensure you have the following:
 `Python 3.8+`
 
 ### 📦 Required Libraries:
-Install using:
+pandas  
+numpy  
+matplotlib  
+seaborn  
+scikit-learn  
 
-```bash
-pip install -r requirements.txt
